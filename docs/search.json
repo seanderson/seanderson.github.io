@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#here-is-a-section",
+    "href": "about.html#here-is-a-section",
+    "title": "About",
+    "section": "Here is a section",
+    "text": "Here is a section\n\nanother"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Homepage for Sven Anderson",
+    "section": "",
+    "text": "Me\n\n\n\ncourses\npublications\n\nThis is a Quarto website by Sven.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nabout about"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Homepage for Sven Anderson",
+    "section": "",
+    "text": "courses\npublications"
+  }
+]
